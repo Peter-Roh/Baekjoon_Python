@@ -16,3 +16,8 @@ site : https://www.acmicpc.net/
 |[10718](https://www.acmicpc.net/problem/10718)|[주어진 문구 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10718.py)|
 |[11718](https://www.acmicpc.net/problem/11718)|[입력받은 그대로 출력하기 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11718.py)|
 |[11719](https://www.acmicpc.net/problem/11719)|[입력받은 그대로 출력하기 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11719.py)|
+|[10998](https://www.acmicpc.net/problem/10998)|[A * B 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10998.py)|
+|[1008](https://www.acmicpc.net/problem/1008)|[A - B 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1008.py)|
+|[10869](https://www.acmicpc.net/problem/10869)|[사칙연산 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10869.py)|
+|[10430](https://www.acmicpc.net/problem/10430)|[주어진 식의 값 비교하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10430.py)|
+|[2558](https://www.acmicpc.net/problem/2558)|[A + B 출력 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2558.py)|
