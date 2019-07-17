@@ -12,6 +12,7 @@ site : https://www.acmicpc.net/
 |[1000](https://www.acmicpc.net/problem/1000)|[A + B 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1000.py)|
 |[1001](https://www.acmicpc.net/problem/1001)|[A - B 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1001.py)|
 |[7287](https://www.acmicpc.net/problem/7287)|[맞은 문제의 수와 아이디 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/7287.py)|
+|[10171](https://www.acmicpc.net/problem/10171)|[주어진 그림 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10171.py3)|
 |[10172](https://www.acmicpc.net/problem/10172)|[주어진 그림 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10172.py)|
 |[10718](https://www.acmicpc.net/problem/10718)|[주어진 문구 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10718.py)|
 |[11718](https://www.acmicpc.net/problem/11718)|[입력받은 그대로 출력하기 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11718.py)|
