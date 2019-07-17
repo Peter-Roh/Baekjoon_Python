@@ -20,5 +20,6 @@ site : https://www.acmicpc.net/
 |[1008](https://www.acmicpc.net/problem/1008)|[A - B 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1008.py)|
 |[10869](https://www.acmicpc.net/problem/10869)|[사칙연산 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10869.py)|
 |[10430](https://www.acmicpc.net/problem/10430)|[주어진 식의 값 비교하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10430.py)|
+|[2588](https://www.acmicpc.net/problem/2588)|[(세 자리 수) x (세 자리 수)](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2588.py3)|
 |[2558](https://www.acmicpc.net/problem/2558)|[A + B 출력 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2558.py)|
 |[2839](https://www.acmicpc.net/problem/2839)|[설탕 배달 최소 봉지 개수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2839.py)|
