@@ -26,3 +26,6 @@ site : https://www.acmicpc.net/
 |[2839](https://www.acmicpc.net/problem/2839)|[설탕 배달 최소 봉지 개수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2839.py)|
 |[1330](https://www.acmicpc.net/problem/1330)|[두 수 비교하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1330.py3)|
 |[9498](https://www.acmicpc.net/problem/9498)|[시험 점수 입력 받고 성적 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/9498.py3)|
+|[2753](https://www.acmicpc.net/problem/2753)|[윤년 판별하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2753.py3)|
+|[2884](https://www.acmicpc.net/problem/2884)|[시간 뺄셈 하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2884.py3)|
+|[10817](https://www.acmicpc.net/problem/10817)|[세 정수 중 두 번째로 큰 정수 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10817.py3)|
