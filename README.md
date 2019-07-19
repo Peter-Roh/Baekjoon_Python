@@ -32,3 +32,4 @@ site : https://www.acmicpc.net/
 |[2739](https://www.acmicpc.net/problem/2739)|[구구단 N단 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2739.py3)|
 |[8393](https://www.acmicpc.net/problem/8393)|[1부터 N까지 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8393.py3)|
 |[15552](https://www.acmicpc.net/problem/15552)|[빠른 A+B](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15552.py3)|
+|[15552](https://www.acmicpc.net/problem/15552)|[빠른 A+B](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15552_2.py3)|
