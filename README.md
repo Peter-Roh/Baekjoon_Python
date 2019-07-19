@@ -29,3 +29,6 @@ site : https://www.acmicpc.net/
 |[2753](https://www.acmicpc.net/problem/2753)|[윤년 판별하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2753.py3)|
 |[2884](https://www.acmicpc.net/problem/2884)|[시간 뺄셈 하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2884.py3)|
 |[10817](https://www.acmicpc.net/problem/10817)|[세 정수 중 두 번째로 큰 정수 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10817.py3)|
+|[2739](https://www.acmicpc.net/problem/2739)|[구구단 N단 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2739.py3)|
+|[8393](https://www.acmicpc.net/problem/8393)|[1부터 N까지 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8393.py3)|
+|[15552](https://www.acmicpc.net/problem/15552)|[빠른 A+B](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15552.py3)|
