@@ -30,10 +30,14 @@ site : https://www.acmicpc.net/
 |[2884](https://www.acmicpc.net/problem/2884)|[시간 뺄셈 하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2884.py3)|
 |[10817](https://www.acmicpc.net/problem/10817)|[세 정수 중 두 번째로 큰 정수 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10817.py3)|
 |[2739](https://www.acmicpc.net/problem/2739)|[구구단 N단 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2739.py3)|
+|[10950](https://www.acmicpc.net/problem/10950)|[A + B 여러 번 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10950.py3)|
 |[8393](https://www.acmicpc.net/problem/8393)|[1부터 N까지 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8393.py3)|
 |[15552](https://www.acmicpc.net/problem/15552)|[빠른 A+B](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15552.py3)|
 |[15552](https://www.acmicpc.net/problem/15552)|[빠른 A+B](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15552_2.py3)|
 |[2741](https://www.acmicpc.net/problem/2741)|[1부터 N까지 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2741.py3)|
 |[2742](https://www.acmicpc.net/problem/2742)|[N부터 1까지 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2742.py3)|
+|[11021](https://www.acmicpc.net/problem/11021)|[A + B 형식에 맞게 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11021.py3)|
+|[11022](https://www.acmicpc.net/problem/11022)|[A + B 형식에 맞게 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11022.py3)|
 |[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2438.py3)|
 |[2439](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2439.py3)|
+|[10871](https://www.acmicpc.net/problem/10871)|[정수 N개 중 X보다 작은 수 모두 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10871.py3)|
