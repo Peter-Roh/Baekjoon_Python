@@ -33,3 +33,7 @@ site : https://www.acmicpc.net/
 |[8393](https://www.acmicpc.net/problem/8393)|[1부터 N까지 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8393.py3)|
 |[15552](https://www.acmicpc.net/problem/15552)|[빠른 A+B](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15552.py3)|
 |[15552](https://www.acmicpc.net/problem/15552)|[빠른 A+B](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15552_2.py3)|
+|[2741](https://www.acmicpc.net/problem/2741)|[1부터 N까지 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2741.py3)|
+|[2742](https://www.acmicpc.net/problem/2742)|[N부터 1까지 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2742.py3)|
+|[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2438.py3)|
+|[2439](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2439.py3)|
