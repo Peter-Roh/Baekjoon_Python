@@ -41,3 +41,8 @@ site : https://www.acmicpc.net/
 |[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2438.py3)|
 |[2439](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2439.py3)|
 |[10871](https://www.acmicpc.net/problem/10871)|[정수 N개 중 X보다 작은 수 모두 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10871.py3)|
+|[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11654.py3)|
+|[11720](https://www.acmicpc.net/problem/11720)|[공백없이 주어진 숫자 N개의 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11720.py3)|
+|[1152](https://www.acmicpc.net/problem/1152)|[단어 수 세기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1152.py3)|
+|[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2908.py3)|
+|[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/5622.py3)|
