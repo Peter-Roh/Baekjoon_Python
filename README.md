@@ -43,6 +43,9 @@ site : https://www.acmicpc.net/
 |[10871](https://www.acmicpc.net/problem/10871)|[정수 N개 중 X보다 작은 수 모두 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10871.py3)|
 |[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11654.py3)|
 |[11720](https://www.acmicpc.net/problem/11720)|[공백없이 주어진 숫자 N개의 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11720.py3)|
+|[10809](https://www.acmicpc.net/problem/10809)|[한 단어에서 각 알파벳이 처음 등장하는 위치 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10809.py3)|
+|[2675](https://www.acmicpc.net/problem/2675)|[문자열의 각 문자 반복해서 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2675.py3)|
+|[1157](https://www.acmicpc.net/problem/1157)|[주어진 단어에서 가장 많이 사용된 알파벳 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1157.py3)|
 |[1152](https://www.acmicpc.net/problem/1152)|[단어 수 세기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1152.py3)|
 |[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2908.py3)|
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/5622.py3)|
