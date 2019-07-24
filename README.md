@@ -41,6 +41,9 @@ site : https://www.acmicpc.net/
 |[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2438.py3)|
 |[2439](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2439.py3)|
 |[10871](https://www.acmicpc.net/problem/10871)|[정수 N개 중 X보다 작은 수 모두 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10871.py3)|
+|[10952](https://www.acmicpc.net/problem/10952)|[0 0 이 들어올 때까지 A + B 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10952.py3)|
+|[10951](https://www.acmicpc.net/problem/10951)|[입력이 끝날 때까지 A + B 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10951.py3)|
+|[1110](https://www.acmicpc.net/problem/1110)|[조건을 만족할 때까지 계속 더하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1110.py3)|
 |[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11654.py3)|
 |[11720](https://www.acmicpc.net/problem/11720)|[공백없이 주어진 숫자 N개의 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11720.py3)|
 |[10809](https://www.acmicpc.net/problem/10809)|[한 단어에서 각 알파벳이 처음 등장하는 위치 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10809.py3)|
