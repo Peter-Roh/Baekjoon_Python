@@ -49,3 +49,5 @@ site : https://www.acmicpc.net/
 |[1152](https://www.acmicpc.net/problem/1152)|[단어 수 세기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1152.py3)|
 |[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2908.py3)|
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/5622.py3)|
+|[2941](https://www.acmicpc.net/problem/2941)|[규칙에 맞는 알파벳의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2941.py3)|
+|[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1316.py3)|
