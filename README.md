@@ -44,6 +44,10 @@ site : https://www.acmicpc.net/
 |[10952](https://www.acmicpc.net/problem/10952)|[0 0 이 들어올 때까지 A + B 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10952.py3)|
 |[10951](https://www.acmicpc.net/problem/10951)|[입력이 끝날 때까지 A + B 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10951.py3)|
 |[1110](https://www.acmicpc.net/problem/1110)|[조건을 만족할 때까지 계속 더하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1110.py3)|
+|[2920](https://www.acmicpc.net/problem/2920)|[주어진 배열이 오름차순인지 아닌지 판단하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2920.py3)|
+|[2577](https://www.acmicpc.net/problem/2577)|[세 수를 곱한 수에 0부터 9까지의 수가 몇 번 쓰였는지 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2577.py3)|
+|[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958.py3)|
+|[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기_2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958_2.py3)|
 |[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11654.py3)|
 |[11720](https://www.acmicpc.net/problem/11720)|[공백없이 주어진 숫자 N개의 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11720.py3)|
 |[10809](https://www.acmicpc.net/problem/10809)|[한 단어에서 각 알파벳이 처음 등장하는 위치 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10809.py3)|
