@@ -52,6 +52,9 @@ site : https://www.acmicpc.net/
 |[1546](https://www.acmicpc.net/problem/1546)|[최댓값을 찾아 점수 조작하고 새로운 평균 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1546.py3)|
 |[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958.py3)|
 |[4344](https://www.acmicpc.net/problem/4344)|[평균을 넘는 학생의 비율 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/4344.py3)|
+|[15596](https://www.acmicpc.net/problem/15596)|[정수 n개의 합을 구하는 함수 구현하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15596.py3)|
+|[1065](https://www.acmicpc.net/problem/1065)|[각 자리수가 등차수열을 이루는 수 개수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1065.py3)|
+|[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10872.py3)|
 |[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기_2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958_2.py3)|
 |[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11654.py3)|
 |[11720](https://www.acmicpc.net/problem/11720)|[공백없이 주어진 숫자 N개의 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11720.py3)|
