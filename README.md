@@ -66,3 +66,4 @@ site : https://www.acmicpc.net/
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/5622.py3)|
 |[2941](https://www.acmicpc.net/problem/2941)|[규칙에 맞는 알파벳의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2941.py3)|
 |[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1316.py3)|
+|[1193](https://www.acmicpc.net/problem/1193)|[규칙에 따라 X번째 분수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1193.py3)|
