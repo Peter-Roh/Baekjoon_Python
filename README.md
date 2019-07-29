@@ -53,6 +53,7 @@ site : https://www.acmicpc.net/
 |[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958.py3)|
 |[4344](https://www.acmicpc.net/problem/4344)|[평균을 넘는 학생의 비율 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/4344.py3)|
 |[15596](https://www.acmicpc.net/problem/15596)|[정수 n개의 합을 구하는 함수 구현하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15596.py3)|
+|[4673](https://www.acmicpc.net/problem/4673)|[주어진 정의에 따라 셀프 넘버 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/4673.py3)|
 |[1065](https://www.acmicpc.net/problem/1065)|[각 자리수가 등차수열을 이루는 수 개수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1065.py3)|
 |[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10872.py3)|
 |[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기_2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958_2.py3)|
@@ -67,3 +68,5 @@ site : https://www.acmicpc.net/
 |[2941](https://www.acmicpc.net/problem/2941)|[규칙에 맞는 알파벳의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2941.py3)|
 |[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1316.py3)|
 |[1193](https://www.acmicpc.net/problem/1193)|[규칙에 따라 X번째 분수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1193.py3)|
+|[10250](https://www.acmicpc.net/problem/10250)|[배정될 호텔 방 번호 규칙 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10250.py3)|
+|[2775](https://www.acmicpc.net/problem/2775)|[층과 거주자 수의 규칙 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2775.py3)|
