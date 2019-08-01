@@ -56,7 +56,7 @@ site : https://www.acmicpc.net/
 |[4673](https://www.acmicpc.net/problem/4673)|[주어진 정의에 따라 셀프 넘버 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/4673.py3)|
 |[1065](https://www.acmicpc.net/problem/1065)|[각 자리수가 등차수열을 이루는 수 개수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1065.py3)|
 |[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10872.py3)|
-|[2447](https://www.acmicpc.net/problem/2447)|[별 찍기 - 10](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2447.py3)|
+|[**2447**](https://www.acmicpc.net/problem/2447)|[별 찍기 - 10](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2447.py3)|
 |[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기_2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958_2.py3)|
 |[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11654.py3)|
 |[11720](https://www.acmicpc.net/problem/11720)|[공백없이 주어진 숫자 N개의 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11720.py3)|
@@ -71,3 +71,4 @@ site : https://www.acmicpc.net/
 |[1193](https://www.acmicpc.net/problem/1193)|[규칙에 따라 X번째 분수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1193.py3)|
 |[10250](https://www.acmicpc.net/problem/10250)|[배정될 호텔 방 번호 규칙 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10250.py3)|
 |[2775](https://www.acmicpc.net/problem/2775)|[층과 거주자 수의 규칙 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2775.py3)|
+|[**6064**](https://www.acmicpc.net/problem/6064)|[규칙에 따라 <x, y>가 몇 번째 해인지 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/6064.py3)|
