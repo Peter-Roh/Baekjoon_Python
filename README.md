@@ -26,7 +26,7 @@ site : https://www.acmicpc.net/
 |[2839](https://www.acmicpc.net/problem/2839)|[설탕 배달 최소 봉지 개수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2839.py)|
 |[1330](https://www.acmicpc.net/problem/1330)|[두 수 비교하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1330.py3)|
 |[9498](https://www.acmicpc.net/problem/9498)|[시험 점수 입력 받고 성적 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/9498.py3)|
-|[2753](https://www.acmicpc.net/problem/2753)|[윤년 판별하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2753.py3)|
+|[**2753**](https://www.acmicpc.net/problem/2753)|[윤년 판별하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2753.py3)|
 |[2884](https://www.acmicpc.net/problem/2884)|[시간 뺄셈 하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2884.py3)|
 |[10817](https://www.acmicpc.net/problem/10817)|[세 정수 중 두 번째로 큰 정수 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10817.py3)|
 |[2739](https://www.acmicpc.net/problem/2739)|[구구단 N단 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2739.py3)|
@@ -51,13 +51,13 @@ site : https://www.acmicpc.net/
 |[3052](https://www.acmicpc.net/problem/3052)|[서로 다른 나머지가 몇 개 있는지 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/3052.py3)|
 |[1546](https://www.acmicpc.net/problem/1546)|[최댓값을 찾아 점수 조작하고 새로운 평균 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1546.py3)|
 |[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958.py3)|
+|[**8958**](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기_2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958_2.py3)|
 |[4344](https://www.acmicpc.net/problem/4344)|[평균을 넘는 학생의 비율 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/4344.py3)|
 |[15596](https://www.acmicpc.net/problem/15596)|[정수 n개의 합을 구하는 함수 구현하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/15596.py3)|
 |[4673](https://www.acmicpc.net/problem/4673)|[주어진 정의에 따라 셀프 넘버 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/4673.py3)|
 |[1065](https://www.acmicpc.net/problem/1065)|[각 자리수가 등차수열을 이루는 수 개수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1065.py3)|
 |[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10872.py3)|
 |[**2447**](https://www.acmicpc.net/problem/2447)|[별 찍기 - 10](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2447.py3)|
-|[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기_2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/8958_2.py3)|
 |[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11654.py3)|
 |[11720](https://www.acmicpc.net/problem/11720)|[공백없이 주어진 숫자 N개의 합 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11720.py3)|
 |[10809](https://www.acmicpc.net/problem/10809)|[한 단어에서 각 알파벳이 처음 등장하는 위치 출력](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10809.py3)|
@@ -67,7 +67,7 @@ site : https://www.acmicpc.net/
 |[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2908.py3)|
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/5622.py3)|
 |[2941](https://www.acmicpc.net/problem/2941)|[규칙에 맞는 알파벳의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2941.py3)|
-|[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1316.py3)|
+|[**1316**](https://www.acmicpc.net/problem/1316)|[그룹 단어의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1316.py3)|
 |[1193](https://www.acmicpc.net/problem/1193)|[규칙에 따라 X번째 분수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1193.py3)|
 |[10250](https://www.acmicpc.net/problem/10250)|[배정될 호텔 방 번호 규칙 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10250.py3)|
 |[2775](https://www.acmicpc.net/problem/2775)|[층과 거주자 수의 규칙 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2775.py3)|
