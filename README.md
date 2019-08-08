@@ -72,3 +72,5 @@ site : https://www.acmicpc.net/
 |[10250](https://www.acmicpc.net/problem/10250)|[배정될 호텔 방 번호 규칙 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10250.py3)|
 |[2775](https://www.acmicpc.net/problem/2775)|[층과 거주자 수의 규칙 찾기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2775.py3)|
 |[**6064**](https://www.acmicpc.net/problem/6064)|[규칙에 따라 <x, y>가 몇 번째 해인지 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/6064.py3)|
+|[**2231**](https://www.acmicpc.net/problem/2231)|[N의 가장 작은 생성자 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2231.py3)|
+|[7568](https://www.acmicpc.net/problem/7568)|[규칙에 따라 숫자쌍 순서 정하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/7568.py3)|
