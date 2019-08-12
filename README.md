@@ -76,3 +76,5 @@ site : https://www.acmicpc.net/
 |[**2231**](https://www.acmicpc.net/problem/2231)|[N의 가장 작은 생성자 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2231.py3)|
 |[7568](https://www.acmicpc.net/problem/7568)|[규칙에 따라 숫자쌍 순서 정하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/7568.py3)|
 |[1436](https://www.acmicpc.net/problem/1436)|[N번째 '666'이 포함된 수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1436.py3)|
+|[2750](https://www.acmicpc.net/problem/2750)|[수 정렬하기 - 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2750.py3)|
+|[2751](https://www.acmicpc.net/problem/2751)|[수 정렬하기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2751.py3)|
