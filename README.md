@@ -78,3 +78,6 @@ site : https://www.acmicpc.net/
 |[1436](https://www.acmicpc.net/problem/1436)|[N번째 '666'이 포함된 수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1436.py3)|
 |[2750](https://www.acmicpc.net/problem/2750)|[수 정렬하기 - 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2750.py3)|
 |[2751](https://www.acmicpc.net/problem/2751)|[수 정렬하기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2751.py3)|
+|[10989](https://www.acmicpc.net/problem/10989)|[수 정렬하기 - 3](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10989.py3)|
+|[1427](https://www.acmicpc.net/problem/1427)|[숫자 정렬하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1427.py3)|
+|[**11650**](https://www.acmicpc.net/problem/11650)|[좌표 정렬하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11650.py3)|
