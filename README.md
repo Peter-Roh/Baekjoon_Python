@@ -80,4 +80,5 @@ site : https://www.acmicpc.net/
 |[2751](https://www.acmicpc.net/problem/2751)|[수 정렬하기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2751.py3)|
 |[10989](https://www.acmicpc.net/problem/10989)|[수 정렬하기 - 3](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10989.py3)|
 |[1427](https://www.acmicpc.net/problem/1427)|[숫자 정렬하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1427.py3)|
-|[**11650**](https://www.acmicpc.net/problem/11650)|[좌표 정렬하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11650.py3)|
+|[**11650**](https://www.acmicpc.net/problem/11650)|[좌표 정렬하기 - 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11650.py3)|
+|[11651](https://www.acmicpc.net/problem/11651)|[좌표 정렬하기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11651.py3)|
