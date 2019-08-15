@@ -82,3 +82,5 @@ site : https://www.acmicpc.net/
 |[1427](https://www.acmicpc.net/problem/1427)|[숫자 정렬하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1427.py3)|
 |[**11650**](https://www.acmicpc.net/problem/11650)|[좌표 정렬하기 - 1](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11650.py3)|
 |[11651](https://www.acmicpc.net/problem/11651)|[좌표 정렬하기 - 2](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11651.py3)|
+|[**11047**](https://www.acmicpc.net/problem/11047)|[필요한 동전 개수의 최솟값 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11047.py3)|
+|[**2217**](https://www.acmicpc.net/problem/2217)|[로프가 버틸 수 있는 최대 중량 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2217.py3)|
