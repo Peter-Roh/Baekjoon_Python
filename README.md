@@ -87,3 +87,4 @@ site : https://www.acmicpc.net/
 |[10814](https://www.acmicpc.net/problem/10814)|[나이, 가입 순으로 회원 정렬하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/10814.py3)|
 |[**11047**](https://www.acmicpc.net/problem/11047)|[필요한 동전 개수의 최솟값 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/11047.py3)|
 |[**2217**](https://www.acmicpc.net/problem/2217)|[로프가 버틸 수 있는 최대 중량 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2217.py3)|
+|[**1541**](https://www.acmicpc.net/problem/1541)|[주어진 식의 값을 괄호를 이용해 최소화하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1541.py3)|
