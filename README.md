@@ -92,3 +92,4 @@ site : https://www.acmicpc.net/
 |[**1541**](https://www.acmicpc.net/problem/1541)|[주어진 식의 값을 괄호를 이용해 최소화하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1541.py3)|
 |[2609](https://www.acmicpc.net/problem/2609)|[두 수의 최대공약수와 최소공배수 출력하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2609.py3)|
 |[2606](https://www.acmicpc.net/problem/2606)|[연결되어 있는 컴퓨터 수 구하기](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/2606.py)|
+|[**1697**](https://www.acmicpc.net/problem/1697)|[숨바꼭질](https://github.com/Peter-Roh/Baekjoon_Python/blob/master/1697.py)|
